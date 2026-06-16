@@ -1,4 +1,4 @@
-# Sistema-de-Streaming-de-Musica-Java
+# Sistema de Streaming de Musica Java
 #  StreamMusic
 
 Sistema de playlists no terminal feito em Java. Cria playlists públicas ou privadas, adiciona e remove músicas e reproduz suas playlists. Projeto criado para praticar os pilares de POO.
